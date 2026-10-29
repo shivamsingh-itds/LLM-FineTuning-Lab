@@ -1,0 +1,45 @@
+
+# Core Deep Learning
+torch
+torchvision
+torchaudio
+
+# Hugging Face Ecosystem
+transformers
+datasets
+tokenizers
+huggingface-hub
+
+# Fine-Tuning
+peft
+trl
+accelerate
+bitsandbytes
+
+# Evaluation
+evaluate
+scikit-learn
+rouge-score
+sacrebleu
+
+# Image and Vision Processing
+pillow
+opencv-python
+timm
+
+# Experiment Tracking
+tensorboard
+wandb
+
+# Data Processing
+numpy
+pandas
+matplotlib
+seaborn
+
+# Development Environment
+jupyter
+ipykernel
+tqdm
+python-dotenv
+PyYAML
